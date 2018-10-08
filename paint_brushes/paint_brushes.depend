@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537673420 source:c:\users\kevsm_000\documents\c++\paint_brushes\main.cpp
+	<iostream>
+	<fstream>
+
